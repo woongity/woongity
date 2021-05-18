@@ -3,8 +3,8 @@
 ### Interest
 
 - Clean Code
-- Spring boot, Jpa
-- SQL
+- Spring boot
+- SQL, DBMS
 
 | Type       | date       | Contents               | Organization         |   |
 |------------|------------|------------------------|----------------------|---|
