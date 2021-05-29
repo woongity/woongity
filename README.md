@@ -5,6 +5,7 @@
 - Clean Code
 - Spring boot
 - SQL, DBMS
+- Flask, python
 
 | Type       | date       | Contents               | Organization         |   |
 |------------|------------|------------------------|----------------------|---|
