@@ -7,11 +7,11 @@
 - SQL, DBMS
 - Flask, python
 
-| Type       | date       | Contents               | Organization         |   |
-|------------|------------|------------------------|----------------------|---|
-| Education  | 2016.03~   | Department of Software | Korea Aerospace univ |   |
-| Employment | 2021.01~06 | BackEnd  Intership     | Drimaes              |   |
-| Education  | 2021.07~12 | FullStack Education    | HyunDai IT&E         |   |
+| Type       | date       | Contents               | Organization         |
+|------------|------------|------------------------|----------------------|
+| Education  | 2016.03~   | Department of Software | Korea Aerospace univ |
+| Employment | 2021.01~06 | BackEnd  Intership     | Drimaes              |
+| Education  | 2021.07~12 | FullStack Education    | HyunDai IT&E         |
 
 ### Certification
 
@@ -19,6 +19,7 @@
 
 - OPIC IH (2021.03)
 - TEPS 682 (2018.02) 
+
 #### CS
 -정보처리 기사
 -ADSP 
