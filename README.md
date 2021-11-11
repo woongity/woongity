@@ -24,6 +24,8 @@
 -정보처리 기사<br>
 -ADSP 
 
+### Want to About me More?
+[About me](https://open-swoop-d2e.notion.site/e416113bb2ee4159930dab4ea96497f1)
 
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ytw1122)](https://solved.ac/ytw1122)
 
