@@ -3,7 +3,7 @@
 ### Interest
 
 - Clean Code
-- Spring boot
+- Spring boot, Vue
 - SQL, DBMS
 - Flask, python
 
