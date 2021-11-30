@@ -21,8 +21,6 @@
 - TEPS 682 (2018.02) 
 
 #### CS
--정보처리 기사<br>
--ADSP 
 
 ### Want to About me More?
 [Click Me!](https://open-swoop-d2e.notion.site/e416113bb2ee4159930dab4ea96497f1)
