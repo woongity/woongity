@@ -11,7 +11,8 @@
 |------------|------------|------------------------|----------------------|
 | Education  | 2016.03~   | Department of Software | Korea Aerospace univ |
 | Employment | 2021.11~06 | BackEnd  Intership     | Drimaes              |
-| Education  | 2021.07~12 | FullStack Education    | HyunDai IT&E         |
+| Education  | 2021.07~12 | FullStack Education    | Hyundai IT&E         |
+| Employment | 2022.01 ~. | FullStack Developer.   | Hyundai IT&E         |
 
 ### Certification
 
