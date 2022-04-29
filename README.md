@@ -24,7 +24,7 @@
 #### CS
 
 ### Want to About me More?
-[Click Me!](https://open-swoop-d2e.notion.site/e416113bb2ee4159930dab4ea96497f1)
+[Click Me!](https://open-swoop-d2e.notion.site/9f84ffda10b442089711aa1e31a2c0cd)
 
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ytw1122)](https://solved.ac/ytw1122)
 
