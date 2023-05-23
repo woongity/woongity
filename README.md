@@ -2,7 +2,7 @@
 
 ### Interest
 
-- Clean Code
+- Clean Code, aws infra
 - Spring boot
 - SQL, DBMS
 - Flask, python
