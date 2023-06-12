@@ -10,7 +10,7 @@
 | Type       | date       | Contents               | Organization         |
 |------------|------------|------------------------|----------------------|
 | Education  | 2016.03~   | Department of Software | Korea Aerospace univ |
-| Employment | 2021.11~06 | BackEnd  Intership     | Drimaes              |
+| Employment | 2020.11~06 | BackEnd  Intership     | Drimaes              |
 | Education  | 2021.07~12 | FullStack Education    | Hyundai IT&E         |
 | Employment | 2022.01 ~ 2022.07 | Spring boot Developer  | Hyundai IT&E         |
 | Employment | 2022.07 ~ | BackEnd Developer  | Samsung Electronics         |
