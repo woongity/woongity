@@ -24,6 +24,8 @@
 
 #### CS
 
+- samsung Certi Pro (2023.04)
+
 ### Want to About me More?
 
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ytw1122)](https://solved.ac/ytw1122)
