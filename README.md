@@ -25,6 +25,7 @@
 #### CS
 
 - samsung Certi Pro (2023.04)
+- AWS Certified Security - Specialty(2024.04)
 
 ### Want to About me More?
 
