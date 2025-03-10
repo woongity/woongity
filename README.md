@@ -26,6 +26,7 @@
 
 - samsung Certi Pro (2023.04)
 - AWS Certified Security - Specialty(2024.04)
+- AWS Solutuons Architecture - Professional(2024.02)
 
 ### Want to About me More?
 
