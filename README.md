@@ -31,7 +31,7 @@
 ### Want to About me More?
 
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ytw1122)](https://solved.ac/ytw1122)
-
+[![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/u/yangtangg/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woongity)](https://github.com/anuraghazra/github-readme-stats)
 
